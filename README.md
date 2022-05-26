@@ -35,7 +35,7 @@
 
 ### Regras de negócio
 - [x] Should not be able to create new users when email is already taken;
-- [ ] Should not be able to turn a non existing user as admin;
+- [x] Should not be able to turn a non existing user as admin;
 - [x] Should not be able to show profile of a non existing user;
 - [x] Should not be able to a non admin user get list of all users;
 - [x] Should not be able to a non existing user get list of all users;
